@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pest-control-site-1.vercel.app/sitemap.xml
