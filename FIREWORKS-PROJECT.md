@@ -79,3 +79,12 @@ Editable titles, descriptions, headings, canonical URLs, service-page structure,
 - Lawn care: replace inspection path with lawn-size, service, turf/weed concern, and recurring-program intake.
 - Visual hero options: technician at property, family/home exterior, close-up prevention/detail, commercial facility.
 - Optional owner portal preview after a real client workflow requires one.
+
+## Preview and verification
+
+- Live demo: https://pest-control-site-1.vercel.app/
+- Storefront: https://fireworks-websitebuilder.com/WebsiteCollection
+- Deployment source: `main` at commit `2db3864de6d359f180b18e62c100e548ca4933a7` (Vercel production Ready).
+- `npm test`: nine HTML pages passed internal-link, metadata, asset-reference, and demo-form checks.
+- Live checks: Home and all eight inner pages loaded, visible images resolved, and empty form submission was blocked by required fields. A complete sample request produced only the local demo message. The storefront preview SVG loaded at 1440 × 960.
+- Client launch still requires real business details, a verified inbox/CRM/scheduling provider, consent terms, provider credentials, and end-to-end integration testing.
