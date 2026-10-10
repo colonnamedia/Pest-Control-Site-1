@@ -40,7 +40,8 @@ Fields: name, business name, email, phone, property type, pest/concern, property
 
 ## Integration points
 
-- Scheduling or dispatch provider: $299 setup, provider confirmed per client
+- Basic booking / appointment integration: $199 setup (FireWorks storefront add-on); provider confirmed per client
+- Dispatch-specific workflow: from $299 setup, scoped to the client's provider and requirements
 - Recurring service enrollment or customer portal: $299 setup
 - CRM and lead-routing connection: $199 setup
 - Customer photo upload: $149 setup
