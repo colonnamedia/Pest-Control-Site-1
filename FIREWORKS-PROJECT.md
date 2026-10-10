@@ -85,7 +85,7 @@ Editable titles, descriptions, headings, canonical URLs, service-page structure,
 
 - Live demo: https://pest-control-site-1.vercel.app/
 - Storefront: https://fireworks-websitebuilder.com/WebsiteCollection
-- Deployment source: `main` at commit `2db3864de6d359f180b18e62c100e548ca4933a7` (Vercel production Ready).
+- Deployment source: `main` at commit `88582bd85d3988f395b53c5c5b773ac1a520e809` (Vercel production Ready).
 - `npm test`: nine HTML pages passed internal-link, metadata, asset-reference, and demo-form checks.
 - Live checks: Home and all eight inner pages loaded, visible images resolved, and empty form submission was blocked by required fields. A complete sample request produced only the local demo message. The storefront preview SVG loaded at 1440 × 960.
-- Client launch still requires real business details, a verified inbox/CRM/scheduling provider, consent terms, provider credentials, and end-to-end integration testing.
+- Mobile Lighthouse on October 10, 2026 (emulated Moto G Power, slow 4G): Performance 97, Accessibility 100, Best Practices 100, SEO 100; LCP 2.3 seconds and zero layout shift after mobile image optimization. Report: https://pagespeed.web.dev/analysis/https-pest-control-site-1-vercel-app/ukpqzd9qxx?form_factor=mobile. Automated scores vary by run and do not replace device testing.\n- Client launch still requires real business details, a verified inbox/CRM/scheduling provider, consent terms, provider credentials, and end-to-end integration testing.
