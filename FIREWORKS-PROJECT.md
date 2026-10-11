@@ -1,4 +1,4 @@
-# FireWorks Project — ClearPath Pest Solutions
+# FireWorks Project — Pest Patrol
 
 ## Template family
 
@@ -6,7 +6,7 @@ Recurring Property Services. Primary demo industry: pest control. Adaptable to r
 
 ## Demo safety
 
-ClearPath Pest Solutions is a fictional demonstration identity. All phone numbers, emails, service claims, plan details, locations, credentials, availability, and operational language must be replaced and verified before client launch. Forms validate locally only and do not submit or store information.
+Pest Patrol is a fictional demonstration identity. All phone numbers, emails, service claims, plan details, locations, credentials, availability, and operational language must be replaced and verified before client launch. Forms validate locally only and do not submit or store information.
 
 ## Included pages
 
@@ -72,20 +72,21 @@ Why: nine crawlable pages, three distinct service pages, residential/commercial 
 
 ## SEO foundation
 
-Editable titles, descriptions, headings, canonical URLs, service-page structure, service-area hub, internal links, XML sitemap, robots file, mobile layout, optimized remote stock imagery, and PestControl structured data. Do not create thin city-name duplicates or promise rankings.
+Editable titles, descriptions, headings, canonical URLs, service-page structure, service-area hub, internal links, XML sitemap, robots file, mobile layout, optimized local WebP hero and secondary stock imagery, and PestControl structured data. Do not create thin city-name duplicates or promise rankings.
 
 ## Future variations
 
 - Cleaning: replace pest selector with property/room/service-frequency intake; add home/commercial cleaning plans.
 - Lawn care: replace inspection path with lawn-size, service, turf/weed concern, and recurring-program intake.
-- Visual hero options: technician at property, family/home exterior, close-up prevention/detail, commercial facility.
+- Current hero: generated technician treating a property exterior near a visible nest, with the inspection qualifier immediately below the image. Future options: close-up prevention/detail, commercial facility, and illustration-led pest silhouettes. Keep all visual work clearly labeled as demo.
 - Optional owner portal preview after a real client workflow requires one.
 
 ## Preview and verification
 
 - Live demo: https://pest-control-site-1.vercel.app/
 - Storefront: https://fireworks-websitebuilder.com/WebsiteCollection
-- Deployment source: `main` at commit `88582bd85d3988f395b53c5c5b773ac1a520e809` (Vercel production Ready).
+- Earlier deployment source: `main` at commit `88582bd85d3988f395b53c5c5b773ac1a520e809` (Vercel production Ready).
 - `npm test`: nine HTML pages passed internal-link, metadata, asset-reference, and demo-form checks.
-- Live checks: Home and all eight inner pages loaded, visible images resolved, and empty form submission was blocked by required fields. A complete sample request produced only the local demo message. The storefront preview SVG loaded at 1440 × 960.
-- Mobile Lighthouse on October 10, 2026 (emulated Moto G Power, slow 4G): Performance 97, Accessibility 100, Best Practices 100, SEO 100; LCP 2.3 seconds and zero layout shift after mobile image optimization. Report: https://pagespeed.web.dev/analysis/https-pest-control-site-1-vercel-app/ukpqzd9qxx?form_factor=mobile. Automated scores vary by run and do not replace device testing.\n- Client launch still requires real business details, a verified inbox/CRM/scheduling provider, consent terms, provider credentials, and end-to-end integration testing.
+- Earlier live checks: Home and all eight inner pages loaded, visible images resolved, and empty form submission was blocked by required fields. A complete sample request produced only the local demo message. The storefront preview SVG loaded at 1440 × 960.
+- Mobile Lighthouse on October 10, 2026 (emulated Moto G Power, slow 4G): Performance 97, Accessibility 100, Best Practices 100, SEO 100; LCP 2.3 seconds and zero layout shift after mobile image optimization. Report: https://pagespeed.web.dev/analysis/https-pest-control-site-1-vercel-app/ukpqzd9qxx?form_factor=mobile. Automated scores vary by run and do not replace device testing.
+- Client launch still requires real business details, a verified inbox/CRM/scheduling provider, consent terms, provider credentials, and end-to-end integration testing.

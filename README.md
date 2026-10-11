@@ -1,4 +1,4 @@
-# ClearPath Pest Solutions — FireWorks Demo
+# Pest Patrol — FireWorks Demo
 
 Reusable recurring-property-services website template, starting with pest control and designed for adaptation to cleaning and lawn care.
 
