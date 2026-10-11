@@ -84,7 +84,10 @@ Editable titles, descriptions, headings, canonical URLs, service-page structure,
 ## Preview and verification
 
 - Live demo: https://pest-control-site-1.vercel.app/
+- Responsive preview: https://pest-control-site-1.vercel.app/preview
 - Storefront: https://fireworks-websitebuilder.com/WebsiteCollection
+- October 11, 2026 refresh: original technician-and-nest hero, Pest Patrol demo identity, inspection qualifier below the hero, responsive mobile photo layout, and a mobile request CTA. Production source commits: `3fb61484ac572a559d2417df429979f8e01e5dff`, `f5f9c9068f2ba967f8cf98df0c23956f5b83a513`, and `047fbb587d34077a0d7285caf84c70ca239c9aca`. Storefront source commit: `e472b2d81c9836cb483ccf1f550155f1c92528d9`.
+- October 11 live checks: Home and responsive preview loaded; the mobile layout displayed the technician image above readable copy. A sample quick-inspection submission returned an explicit local-only demo message. The storefront card and modal displayed the new preview image, Featured status, $1,499 build, and $499/year or $59.99/month hosting; the preview image loaded at 1348 × 926.
 - Earlier deployment source: `main` at commit `88582bd85d3988f395b53c5c5b773ac1a520e809` (Vercel production Ready).
 - `npm test`: nine HTML pages passed internal-link, metadata, asset-reference, and demo-form checks.
 - Earlier live checks: Home and all eight inner pages loaded, visible images resolved, and empty form submission was blocked by required fields. A complete sample request produced only the local demo message. The storefront preview SVG loaded at 1440 × 960.
